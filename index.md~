@@ -8,7 +8,7 @@ tagline: made in Amsterdam
   
 ## Latest Posts
 
-This blog is a fine collection of various tech related posts.
+This blog contains tech posts.
 
 <ul class="posts">
   {% for post in site.posts %}
