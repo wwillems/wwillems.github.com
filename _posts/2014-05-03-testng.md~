@@ -11,4 +11,4 @@ I have mostly been using junit for writing Java unit tests but lately took a qui
 
 I created a IBAN validator class.
 
-{% gist wwillems/IBANValidator.java %} 
+{% gist 7a9e9f636790cc1dd3e2 %} 
