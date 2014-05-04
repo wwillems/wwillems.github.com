@@ -11,4 +11,10 @@ I have mostly been using junit for writing Java unit tests but lately took a qui
 
 I created a IBAN validator class.
 
-{% gist 7a9e9f636790cc1dd3e2 %} 
+<script src="https://gist.github.com/wwillems/7a9e9f636790cc1dd3e2.js"></script>
+
+The following test is the accompanying TestNG test.
+
+<script src="https://gist.github.com/wwillems/f6e3423392122cff1d49.js"></script>
+
+The dataproviders (correctNumbers and incorrectNumbers) hold an array of correct and incorrect IBAN numbers. These get passed into the validateCorrectNumbers and validateIcorrectNumbers test methods.
