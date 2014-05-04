@@ -13,8 +13,17 @@ I created a IBAN validator class.
 
 <script src="https://gist.github.com/wwillems/7a9e9f636790cc1dd3e2.js"></script>
 
+IBAN_REGEX holds a regular expression defining valid IBAN numbers. The validate() method matches than IBAN number against the regular expression and passes back true or false.
+
 The following test is the accompanying TestNG test.
 
 <script src="https://gist.github.com/wwillems/f6e3423392122cff1d49.js"></script>
 
 The dataproviders (correctNumbers and incorrectNumbers) hold an array of correct and incorrect IBAN numbers. These get passed into the validateCorrectNumbers and validateIcorrectNumbers test methods.
+
+The method setUp() will be invoked before any test method is run. There is no need to extend a class or implement an interface. A test method can belong to one or several groups.
+
+To get the full working version of this test clone repository https://github.com/wwillems/techlogprojects.git
+Go to techlogprojects/testng and run mvn clean install
+
+
