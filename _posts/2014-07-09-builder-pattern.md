@@ -11,9 +11,5 @@ To build clean and expressive unit tests I have been using the Builder pattern l
 
 The unit test below has two tests, one with the default values as defined in the builder class and one with (some) values set using the with* methods. 
 
-<script src="https://github.com/wwillems/techlogprojects/blob/master/builder-pattern/src/main/java/org/ts/patterns/Product.java"></script>
-
-<script src="https://github.com/wwillems/techlogprojects/blob/master/builder-pattern/src/main/java/org/ts/patterns/ProductBuilder.java"></script>
-
-<script src="https://github.com/wwillems/techlogprojects/blob/master/builder-pattern/src/test/java/org/ts/patterns/ProductTest.java"></script>
+<script src="https://gist.github.com/wwillems/b6e847925bb82d13cfbe.js"></script>
 
