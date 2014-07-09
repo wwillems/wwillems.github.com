@@ -13,3 +13,5 @@ The unit test below has two tests, one with the default values as defined in the
 
 <script src="https://gist.github.com/wwillems/b6e847925bb82d13cfbe.js"></script>
 
+<script src="https://gist.github.com/wwillems/4dd90db4896940fdb0d7.js"></script>
+
