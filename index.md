@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tech
-tagline: made in Amsterdam
+title: Coding
+tagline: memorabilia
 ---
 {% include JB/setup %}
 
