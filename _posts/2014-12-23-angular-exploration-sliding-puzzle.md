@@ -1,4 +1,12 @@
+---
+layout: post
+title: "Builder pattern"
+description: "Testing with the builder pattern"
+category: dependency injection
+tags: [builder pattern, mockito, unit testing]
+---
 {% include JB/setup %}
+
 
 Back in the eighties I used to be a big fan of the IQ-Kwis, a quiz on Belgian television (http://nl.wikipedia.org/wiki/De_IQ-Kwis). The contestants had to answer knowledge questions and at the end of the show solve a word puzzle. Because these days the whole world seems to be doing AngularJS I wanted to familiarize myself with Angular by starting a little project implementing this word puzzle.
 
