@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: "Sliding puzzle project setup"
