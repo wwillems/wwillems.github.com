@@ -2,7 +2,8 @@ Back in the eighties I used to be a big fan of the IQ-Kwis, a quiz on Belgian te
 
 But while doing so I thought it would be nice to store puzzles' high scores as well and thought of exploring some cloud technology and use mongodb, express, rest and nodejs to implement the backend. I also thought it would be nice to have the final app be a mobile app and earn big money from it and retire. But that is just a side goal. My main goal is to relive the eighties and learn something on the side.
 
-Someting about the word puzzle.
+
+Something about the word puzzle...
 
 The final round was the blackboard containing letters in a random order. Each team had to make a word as long as possible by shifting the letters. This was a variation on the sliding puzzle with 24 cubes of which 4 are blank. The longest possible word consisted of 20 letters.
 
