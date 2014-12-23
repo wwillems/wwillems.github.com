@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Builder pattern"
-description: "Testing with the builder pattern"
-category: dependency injection
-tags: [builder pattern, mockito, unit testing]
+title: "Angular exploration - Sliding puzzle"
+description: "Sliding puzzle project"
+category: angular
+tags: [angular]
 ---
 {% include JB/setup %}
 
