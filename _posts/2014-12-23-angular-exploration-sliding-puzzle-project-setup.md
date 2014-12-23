@@ -7,7 +7,7 @@ tags: [angular,phonegap,yeoman]
 ---
 {% include JB/setup %}
 
-To start the project I created a Phonegap project and used the mobileangularui yeoman generator. To create a Phonegap project based on Mobile Angular UI I followed the steps as outlined in the excellent post <href a="http://mobileangularui.com/blog/your-first-phonegap-app-with-mobile-angular-ui/">Your first Phonegap App with Mobile Angular Ui</a>
+To start the project I created a Phonegap project and used the mobileangularui yeoman generator. To create a Phonegap project based on Mobile Angular UI I followed the steps as outlined in the excellent post <a href="http://mobileangularui.com/blog/your-first-phonegap-app-with-mobile-angular-ui/">Your first Phonegap App with Mobile Angular Ui</a>
 
 Install the required tools:
 npm install -g bower 
