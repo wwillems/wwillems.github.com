@@ -24,6 +24,8 @@ cd swiped
 
 Scaffold the project: yo mobileangularui
 
+Downgrade the bootstrap version to 3.2.0, then run $ bower update bootstrap
+
 Build the project: gulp build
 
 Run the Android version of the app: phonegap run android
