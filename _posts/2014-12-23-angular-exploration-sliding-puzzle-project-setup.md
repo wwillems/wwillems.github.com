@@ -5,7 +5,7 @@ layout: post
 title: "Sliding puzzle project setup"
 description: "Frontend project setup"
 category: angular
-tags: [angular phonegap yeoman]
+tags: [angular,phonegap,yeoman]
 ---
 {% include JB/setup %}
 
