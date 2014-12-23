@@ -19,4 +19,5 @@ The final round was the blackboard containing letters in a random order. Each te
 
 The slide puzzle is a puzzle on a plate of 4 times 4 fields. In the most common variant are 15 fields a number, the numbers 1 to 15. A field is empty. Still can be pushed a figure to the empty field , which replace the empty field so shifts, hence the name puzzle.
 
-http://en.wikipedia.org/wiki/Sliding_puzzle
+<a href="http://en.wikipedia.org/wiki/Sliding_puzzle">Sliding puzzle (wikipedia)</a>
+
