@@ -21,3 +21,5 @@ The slide puzzle is a puzzle on a plate of 4 times 4 fields. In the most common 
 
 <a href="http://en.wikipedia.org/wiki/Sliding_puzzle">Sliding puzzle (wikipedia)</a>
 
+The backend as well as the frontend are deployed on Heroku. The working version can be found here
+<a href="http://swiped.herokuapp.com">Swiped on Heroku</a>
