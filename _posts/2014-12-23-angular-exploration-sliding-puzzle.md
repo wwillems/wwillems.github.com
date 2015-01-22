@@ -24,4 +24,4 @@ The slide puzzle is a puzzle on a plate of 4 times 4 fields. In the most common 
 The backend as well as the frontend are deployed on Heroku. The working version can be found here
 <a href="http://swiped.herokuapp.com">Swiped on Heroku</a>
 
-To register a new account use the <a href="http://swiped.herokuapp.com/register.html">registration form</a>.
+To register a new account use the <a href="http://swiped.herokuapp.com/register.html">registration form</a>. This form is based on the MailChimp signup form as described in this great post on onehungrymind <a href="http://onehungrymind.com/build-mailchimp-signup-form-angularjs/">Build a MailChimp Signup Form with AngularJS</a>.
