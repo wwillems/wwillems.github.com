@@ -17,17 +17,17 @@ Something about the word puzzle...
 
 The final round was the blackboard containing letters in a random order. Each team had to make a word as long as possible by shifting the letters. This was a variation on the sliding puzzle with 24 cubes of which 4 are blank. The longest possible word consisted of 20 letters.
 
-The slide puzzle is a puzzle on a plate of 4 times 4 fields. In the most common variant are 15 fields a number, the numbers 1 to 15. A field is empty. Still can be pushed a figure to the empty field , which replace the empty field so shifts, hence the name puzzle.
+The slide puzzle is a puzzle on a plate of 4 times 4 fields. In the most common variant the 15 fields are numbers, the numbers 1 to 15. One field is empty. A number can be pushed to the empty field which then replaces the empty field, hence the name puzzle.
 
 <a href="http://en.wikipedia.org/wiki/Sliding_puzzle">Sliding puzzle (wikipedia)</a>
 
-The backend as well as the frontend are deployed on Heroku. The working version can be found here
+The backend as well as the frontend are deployed on Heroku. The working version can be found here:
 
 <a href="http://swiped.herokuapp.com">Swiped on Heroku</a>
 
 To register a new account use the <a href="http://swiped.herokuapp.com/register.html">registration form</a>. 
 
 This is the registration form in full color:
-<img src="http://swiped.herokuapp.com/images/swiped-register.jpg">
+<img src="images/swiped-register.jpg">
 
 This form is based on the MailChimp signup form as described in this great post on onehungrymind <a href="http://onehungrymind.com/build-mailchimp-signup-form-angularjs/">Build a MailChimp Signup Form with AngularJS</a>.
