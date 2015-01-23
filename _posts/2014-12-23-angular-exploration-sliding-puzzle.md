@@ -25,4 +25,9 @@ The backend as well as the frontend are deployed on Heroku. The working version 
 
 <a href="http://swiped.herokuapp.com">Swiped on Heroku</a>
 
-To register a new account use the <a href="http://swiped.herokuapp.com/register.html">registration form</a>. This form is based on the MailChimp signup form as described in this great post on onehungrymind <a href="http://onehungrymind.com/build-mailchimp-signup-form-angularjs/">Build a MailChimp Signup Form with AngularJS</a>.
+To register a new account use the <a href="http://swiped.herokuapp.com/register.html">registration form</a>. 
+
+This is the registration form in full color:
+<img src="images/swiped-register.jpg">
+
+This form is based on the MailChimp signup form as described in this great post on onehungrymind <a href="http://onehungrymind.com/build-mailchimp-signup-form-angularjs/">Build a MailChimp Signup Form with AngularJS</a>.
