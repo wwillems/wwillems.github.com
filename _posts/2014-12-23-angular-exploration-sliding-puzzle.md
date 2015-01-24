@@ -8,7 +8,7 @@ tags: [angular]
 {% include JB/setup %}
 
 
-Back in the eighties I used to be a big fan of the <a href="http://nl.wikipedia.org/wiki/De_IQ-Kwis">IQ-Kwis</a>, a quiz on Belgian television. The contestants had to answer knowledge questions and at the end of the show solve a word puzzle. Because of AngularJS gaining traction I wanted to familiarize myself with Angular by starting a little project implementing this word puzzle.
+Back in the eighties I used to be a big fan of the <a href="http://nl.wikipedia.org/wiki/De_IQ-Kwis">IQ-Kwis</a>, a quiz on Belgian television. The contestants had to answer knowledge questions and at the end of the show solve a word puzzle. Because of AngularJS gaining traction I wanted to familiarize myself with Angular by starting a little project (I decided to name the project "Swiped") implementing this word puzzle.
 
 But while doing so I thought it would be nice to store puzzles' high scores as well and thought of exploring some cloud technology and use mongodb, express, rest and nodejs to implement the backend.
 
