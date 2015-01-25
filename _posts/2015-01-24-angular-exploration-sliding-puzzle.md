@@ -3,7 +3,7 @@ layout: post
 title: "Angular exploration - Sliding puzzle"
 description: "Sliding puzzle project"
 category: angular
-tags: [angular]
+tags: [angular,heroku,node js,rest,mongodb]
 ---
 {% include JB/setup %}
 
