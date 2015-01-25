@@ -24,6 +24,10 @@ The backend as well as the frontend are deployed on Heroku. The working version 
 
 <a href="http://swiped.herokuapp.com">Swiped on Heroku</a>
 
+The screenshot below shows the playing field of a four by four sliding puzzle. At the bottom of the playing field the running time is shown. Once the puzzle is completed, i.e. the numbers are shown is the proper order and the empty tile is in the bottom right corner, the score can be uploaded by clicking the Upload button.
+
+
+
 To register a new account use the <a href="http://swiped.herokuapp.com/register.html">registration form</a>. 
 
 This is the registration form in full color:
