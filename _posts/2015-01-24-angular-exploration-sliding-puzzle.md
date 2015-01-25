@@ -24,13 +24,19 @@ The backend as well as the frontend are deployed on Heroku. The working version 
 
 <a href="http://swiped.herokuapp.com">Swiped on Heroku</a>
 
-The screenshot below shows the playing field of a four by four sliding puzzle. At the bottom of the playing field the running time is shown. Once the puzzle is completed, i.e. the numbers are shown is the proper order and the empty tile is in the bottom right corner, the score can be uploaded by clicking the Upload button.
+The screenshot below shows the playing field of a four by four sliding puzzle. At the bottom of the playing field the running time is shown. Once the puzzle is completed, i.e. the numbers are shown is the proper order and the empty tile is in the bottom right corner, the score can be uploaded by clicking the 'Upload score' button.
+
+The high score can be viewed by selecting the 'High scores' entry in the Swiped menu. It shows a list of high scores showing the user name, the date of the high score, the playing level and the time needed to complete the puzzle. The search box can be used to select a specific player's scores.
+
+This is a sample list of high scores:
 
 
 
-To register a new account use the <a href="http://swiped.herokuapp.com/register.html">registration form</a>. 
+To register a new player profile use the <a href="http://swiped.herokuapp.com/register.html">registration form</a>. 
 
 This is the registration form in full color:
 <img src="http://swiped.herokuapp.com/images/swiped-register.jpg">
 
 This form is based on the MailChimp signup form as described in this great post on onehungrymind <a href="http://onehungrymind.com/build-mailchimp-signup-form-angularjs/">Build a MailChimp Signup Form with AngularJS</a>.
+
+The code can be found on github. The frontend (AngularJS) project can be found here. Whereas the backend (rest/node js) project can be found here.
