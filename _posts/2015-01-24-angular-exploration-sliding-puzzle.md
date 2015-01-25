@@ -10,7 +10,7 @@ tags: [angular]
 
 Back in the eighties I used to be a big fan of the <a href="http://nl.wikipedia.org/wiki/De_IQ-Kwis">IQ-Kwis</a>, a quiz on Belgian television. The contestants had to answer knowledge questions and at the end of the show solve a word puzzle. Because of AngularJS gaining traction I wanted to familiarize myself with Angular by starting a little project (I decided to name the project "Swiped") implementing this word puzzle.
 
-But while doing so I thought it would be nice to store puzzles' high scores as well and thought of exploring some cloud technology and use mongodb, express, rest and nodejs to implement the backend.
+But while doing so I thought it would be nice to store user profiles and players' high scores and thought of exploring some cloud technology (Heroku more specifically) and use mongodb, express, rest and nodejs to implement the backend.
 
 Something about the word puzzle...
 
@@ -28,7 +28,7 @@ The screenshot below shows the playing field of a four by four sliding puzzle. A
 
 [TODO add screenshot]
 
-The high score can be viewed by selecting the 'High scores' entry in the Swiped menu. It shows a list of high scores showing the user name, the date of the high score, the playing level and the time needed to complete the puzzle. The search box can be used to select a specific player's scores.
+The high scores can be viewed by selecting the 'High scores' entry in the Swiped menu. It shows a list of high scores showing the user name, the date of the high score, the playing level and the time needed to complete the puzzle. The search box can be used to select a specific player's scores.
 
 This is a sample list of high scores:
 
@@ -43,3 +43,5 @@ This is the registration form in full color:
 This form is based on the MailChimp signup form as described in this great post on onehungrymind <a href="http://onehungrymind.com/build-mailchimp-signup-form-angularjs/">Build a MailChimp Signup Form with AngularJS</a>.
 
 The code can be found on github. The frontend (AngularJS) project can be found <a href="https://github.com/wwillems/swiped.git">here</a>. Whereas the backend (rest/node js) project can be found <a href="https://github.com/wwillems/scoreapi.git">here</a>.
+
+My next post will cover some of the technical stuff I touched upon while building this application.
